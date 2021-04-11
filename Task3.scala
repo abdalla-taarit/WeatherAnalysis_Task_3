@@ -2,7 +2,7 @@ package com.sundogsoftware.spark
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.expressions.Window
 import org.apache.spark.sql.types.{BooleanType, DateType, FloatType, IntegerType, StringType, StructType}
-object Task3_2 {
+object Task3 {
   import org.apache.spark.sql._
   import org.apache.log4j._
   import org.apache.spark.sql.functions._
